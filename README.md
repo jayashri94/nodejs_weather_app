@@ -1,3 +1,3 @@
 # nodejs_weather_app
 
-A simple node JS weather app built Using javascript and html/CSS
+A simple node JS weather app built using javascript and html/CSS
