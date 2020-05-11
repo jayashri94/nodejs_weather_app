@@ -1,4 +1,4 @@
-### Weather App
+## Weather App
 
 Weather App is a simple weather forecast app. It is built using node JS/Express.The app gives the information of the current weather when the location is given as input.
 
@@ -8,21 +8,21 @@ Weather App is a simple weather forecast app. It is built using node JS/Express.
 * Node JS
 * HandleBar
 
-## NPM Packages
+### NPM Packages
 
 * Express
 * Hbs
 * Nodemon
 * Request
 
-## APIs
+### APIs
 
 * Weather stack API 
 * Mapbox api
 
 Deployed in Heroku
 
-## How to install
+### How to install
 
 How to run the repo
 1.	Clone this repo
