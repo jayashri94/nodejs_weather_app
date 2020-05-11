@@ -1,4 +1,4 @@
-## Weather App
+# Weather App
 
 Weather App is a simple weather forecast app. It is built using node JS/Express.The app gives the information of the current weather when the location is given as input.
 
