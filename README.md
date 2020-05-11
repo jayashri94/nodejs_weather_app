@@ -30,3 +30,4 @@ How to run the repo
 3.	Run npm start //change
 4.	You must add your own API key in the utils/forecast.js and utils/geocode.js file to connect to weather stack and mapbox API.
 
+![ Images of the App](Slide3.png)
